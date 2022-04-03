@@ -2,7 +2,7 @@ import turtle
 import random
 from math import*
 from tkinter.simpledialog import*
-##2019038059##
+##2019038059 윤태경##
 instr=''
 swidth,sheight=500,500
 tx,ty=[0]*2
